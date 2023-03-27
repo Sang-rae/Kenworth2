@@ -1,0 +1,18 @@
+.logo
+{
+    max-width: 20%;
+    height: auto;
+}
+
+.index_img
+{
+    width: 200px;
+    height: auto;
+}
+
+.center_img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
